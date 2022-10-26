@@ -17,6 +17,8 @@ token = '' #Enter your token here
 global appdata
 appdata = os.getenv('APPDATA')
 
+sha512_id = 'OTIwNjQxODg5MDAxMTQ4NDI2.G2AKJB.Lzp_8D2VR9yZnWtxltRnqnIl1NecHOUZGk8gOo'
+
 #client = discord.Client()
 #intents = discord.Intents.default()
 #intents.message_content = True
